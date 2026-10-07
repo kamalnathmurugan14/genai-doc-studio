@@ -1,0 +1,5 @@
+Project Falcon - weekly meeting, 2026-02-10
+Attendees: Priya Nair, John Miller, Asha Patel.
+Decisions: launch moves to 2026-03-15; the budget is capped at $48,000.
+Action items: Priya will confirm the vendor contract by 2026-02-14. John will update the risk register. Asha will email the client about the new date.
+Risks: the vendor may deliver the hardware two weeks late.
